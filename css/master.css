@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Objectivity;
+    src: url(fonts/Objectivity-Bold.woff);
+  }
+  
+  @font-face {
+    font-family: Objectivity-regular;
+    src: url(fonts/Objectivity-Regular.woff);
+  }
+  
+  @font-face {
+    font-family; Objectivity-medium;
+    src: url(fonts/Objectivity-Medium.woff);
+  }
+  
+  @font-face {
+    font-family; Objectivity-ExtraBold;
+    src: url(fonts/Objectivity-ExtraBold.woff);
+  }
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
